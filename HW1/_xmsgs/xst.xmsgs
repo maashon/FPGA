@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="872" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\tst.v" Line 6: Using initial value of <arg fmt="%s" index="1">clk</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="872" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\tst.v" Line 7: Using initial value of <arg fmt="%s" index="1">up</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="872" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\tst.v" Line 8: Using initial value of <arg fmt="%s" index="1">rst</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="872" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\tst.v" Line 9: Using initial value of <arg fmt="%s" index="1">clk</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="872" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\tst.v" Line 10: Using initial value of <arg fmt="%s" index="1">rst</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="872" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\tst.v" Line 11: Using initial value of <arg fmt="%s" index="1">up</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\tst.v" Line 5: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\counter.v" Line 11: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\counter.v" Line 15: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1511" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\counter.v" Line 5: Mix of blocking and non-blocking assignments to variable &lt;<arg fmt="%s" index="1">out</arg>&gt; is not a recommended coding practice.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\counter.v" Line 3: Empty module &lt;<arg fmt="%s" index="1">counter</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\Parsa\Desktop\fpga\HW1\tst.v" Line 5: Assignment to <arg fmt="%s" index="1">q</arg> ignored, since the identifier is never used
+</msg>
+
+</messages>
+

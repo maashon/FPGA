@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"C:/Users/Parsa/Desktop/fpga/mux/muxnto1tester.v" Line 4: &lt;<arg fmt="%s" index="1">n</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"C:/Users/Parsa/Desktop/fpga/mux/muxnto1tester.v" Line 5: &lt;<arg fmt="%s" index="1">log2n</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="598" delta="unknown" >"C:/Users/Parsa/Desktop/fpga/mux/muxnto1tester.v" Line 3: Module &lt;<arg fmt="%s" index="1">muxnto1tester</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+

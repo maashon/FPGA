@@ -1,0 +1,25 @@
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 fourBitCounter.ngc fourBitCounter.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o fourBitCounter_map.ncd fourBitCounter.ngd fourBitCounter.pcf 
+par -w -intstyle ise -ol high -mt off fourBitCounter_map.ncd fourBitCounter.ncd fourBitCounter.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml fourBitCounter.twx fourBitCounter.ncd -o fourBitCounter.twr fourBitCounter.pcf 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/fourBitCounter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 fourBitCounter.ngc fourBitCounter.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o fourBitCounter_map.ncd fourBitCounter.ngd fourBitCounter.pcf 
+par -w -intstyle ise -ol high -mt off fourBitCounter_map.ncd fourBitCounter.ncd fourBitCounter.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml fourBitCounter.twx fourBitCounter.ncd -o fourBitCounter.twr fourBitCounter.pcf 

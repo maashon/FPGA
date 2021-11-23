@@ -1,0 +1,4 @@
+verilog isim_temp "SC.v"
+verilog isim_temp "DEC4to16.v"
+verilog isim_temp "TimingSignals.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

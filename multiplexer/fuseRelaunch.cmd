@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Parsa/Desktop/fpga/multiplexer/adderTester_isim_beh.exe" -prj "C:/Users/Parsa/Desktop/fpga/multiplexer/adderTester_beh.prj" "work.adderTester" "work.glbl" 

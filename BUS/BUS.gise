@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="BUS.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ALU.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ALU.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ALU.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CU.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CU.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CU.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CU_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DEC.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DEC.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DEC.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DEC3to8.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DEC3to8.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DEC3to8.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DEC4to16.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DEC4to16.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DEC4to16.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MEMORY.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="MEMORY.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="MEMORY.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="REGISTER.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="REGISTER.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="REGISTER.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="REGISTER12.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="REGISTER12.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="REGISTER12.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="REGISTER16.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="REGISTER16.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="REGISTER16.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="REGISTER8.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="REGISTER8.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="REGISTER8.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SC.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="SC.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="SC.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Tester.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Tester.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Tester.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Tester_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Tester_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="Tester_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Tester_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TimingSignals.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="TimingSignals.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="TimingSignals.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TimingSignals_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dSigGenerator.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="dSigGenerator.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="dSigGenerator.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="flipflop.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="flipflop.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="flipflop.xst"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux8to1.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux8to1.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="mux8to1.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="wires.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="wires.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="wires.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1515764623" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1515764623">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1515838869" xil_pn:in_ck="6525282946445868024" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1515838869">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALU.v"/>
+      <outfile xil_pn:name="CU.v"/>
+      <outfile xil_pn:name="DEC3to8.v"/>
+      <outfile xil_pn:name="DEC4to16.v"/>
+      <outfile xil_pn:name="MEMORY.v"/>
+      <outfile xil_pn:name="REGISTER8.v"/>
+      <outfile xil_pn:name="Register16.v"/>
+      <outfile xil_pn:name="SC.v"/>
+      <outfile xil_pn:name="Tester.v"/>
+      <outfile xil_pn:name="TimingSignals.v"/>
+      <outfile xil_pn:name="dSigGenerator.v"/>
+      <outfile xil_pn:name="flipflop.v"/>
+      <outfile xil_pn:name="mux8to1.v"/>
+      <outfile xil_pn:name="wires.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1516359245" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-4716045728028599410" xil_pn:start_ts="1516359245">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1516359245" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="2206585266582769484" xil_pn:start_ts="1516359245">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1515764650" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-2682478347923691625" xil_pn:start_ts="1515764650">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1515838869" xil_pn:in_ck="6525282946445868024" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1515838869">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ALU.v"/>
+      <outfile xil_pn:name="CU.v"/>
+      <outfile xil_pn:name="DEC3to8.v"/>
+      <outfile xil_pn:name="DEC4to16.v"/>
+      <outfile xil_pn:name="MEMORY.v"/>
+      <outfile xil_pn:name="REGISTER8.v"/>
+      <outfile xil_pn:name="Register16.v"/>
+      <outfile xil_pn:name="SC.v"/>
+      <outfile xil_pn:name="Tester.v"/>
+      <outfile xil_pn:name="TimingSignals.v"/>
+      <outfile xil_pn:name="dSigGenerator.v"/>
+      <outfile xil_pn:name="flipflop.v"/>
+      <outfile xil_pn:name="mux8to1.v"/>
+      <outfile xil_pn:name="wires.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1516359248" xil_pn:in_ck="6525282946445868024" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-9133433513402651205" xil_pn:start_ts="1516359245">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Tester_beh.prj"/>
+      <outfile xil_pn:name="Tester_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1516359248" xil_pn:in_ck="-4942799003821179827" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-1463597579363834274" xil_pn:start_ts="1516359248">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Tester_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+  </transforms>
+
+</generated_project>

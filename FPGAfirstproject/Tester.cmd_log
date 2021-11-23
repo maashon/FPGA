@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/Tester.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/Tester.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 Tester.ngc Tester.ngd  

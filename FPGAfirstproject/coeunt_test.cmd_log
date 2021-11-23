@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/coeunt_test.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/coeunt_test.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 coeunt_test.ngc coeunt_test.ngd  
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/coeunt_test.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/coeunt_test.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/coeunt_test.xst" -ofn "C:/Users/Parsa/Desktop/fpga/FPGAfirstproject/coeunt_test.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 coeunt_test.ngc coeunt_test.ngd  

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/fulladder/fullAdder.xst" -ofn "C:/Users/Parsa/Desktop/fpga/fulladder/fullAdder.syr" 

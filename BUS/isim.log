@@ -1,0 +1,12 @@
+ISim log file
+Running: C:\Users\Parsa\Desktop\fpga\BUS\Tester_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Parsa/Desktop/fpga/BUS/Tester_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "C:/Users/Parsa/Desktop/fpga/BUS/CU.v" Line 35.  For instance UUT/rom/, width 1 of formal port dataout is not equal to width 16 of actual signal mem_dat.
+WARNING: File "C:/Users/Parsa/Desktop/fpga/BUS/CU.v" Line 42.  For instance UUT/control/, width 4 of formal port ctrl_alu is not equal to width 3 of actual signal ctrl_alu.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+WARNING: File initialdata referenced on C:/Users/Parsa/Desktop/fpga/BUS/MEMORY.v at line 28 cannot be opened for reading. Please ensure that this file is available in the current working directory.Finished circuit initialization process.

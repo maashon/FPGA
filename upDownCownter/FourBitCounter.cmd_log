@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/upDownCownter/FourBitCounter.xst" -ofn "C:/Users/Parsa/Desktop/fpga/upDownCownter/FourBitCounter.syr" 

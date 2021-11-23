@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/multiplexer/adderTester.xst" -ofn "C:/Users/Parsa/Desktop/fpga/multiplexer/adderTester.syr" 
+xst -intstyle ise -ifn "C:/Users/Parsa/Desktop/fpga/multiplexer/adderTester.xst" -ofn "C:/Users/Parsa/Desktop/fpga/multiplexer/adderTester.syr" 

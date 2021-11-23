@@ -1,0 +1,2 @@
+verilog work "fourBitCounter.v"
+verilog work "fourBitAdderTester.v"
